@@ -1,0 +1,6 @@
+C:\git\陣列\陣列\bin\Debug\陣列.exe.config
+C:\git\陣列\陣列\bin\Debug\陣列.exe
+C:\git\陣列\陣列\bin\Debug\陣列.pdb
+C:\git\陣列\陣列\obj\Debug\陣列.csprojResolveAssemblyReference.cache
+C:\git\陣列\陣列\obj\Debug\陣列.exe
+C:\git\陣列\陣列\obj\Debug\陣列.pdb
